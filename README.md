@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/HillTrigger) 
+  ---
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
