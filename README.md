@@ -91,7 +91,7 @@
 
 ## 📌 Pinned Projects
 
-### 🔹 [Blog Platform](https://github.com/HillTrigger/nuxt-blog)
+### 🔹 [Blog Platform](https://github.com/HillTrigger/Empty-Commit)
 SSR-блог на Nuxt.js с JWT авторизацией, email подтверждением, интеграцией CMS (Directus) и RSS-лентой. Развёрнут с помощью Docker на VPS.
 
 ### 🔹 [React To-Do + Webpack](https://github.com/HillTrigger/React-ToDo-WebPack)
