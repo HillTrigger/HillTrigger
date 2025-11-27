@@ -20,4 +20,4 @@
 ---
 
 ### ☕ Контакты  
-📧 [hilltrigger@proton.me](mailto:hilltrigger@proton.me)
+📧 [email@hilltrigger.ru](mailto:email@hilltrigger.ru)
