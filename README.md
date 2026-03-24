@@ -27,8 +27,8 @@ JavaScript · TypeScript · HTML · CSS · Vue · Nuxt · Git · Tailwind CSS ·
 ### Проекты
 
 #### [⚙️ Webpack 5 Boilerplate](https://github.com/HillTrigger/webpack-5-sample)
-Стартовая сборка на Webpack 5 с hot reload, оптимизацией ассетов и продуманной структурой. Делал для себя — пользуюсь в работе.
-`Webpack 5` `SCSS` `Babel` `PostCSS`
+Стартовая сборка на Webpack 5 с hot reload, оптимизацией ассетов и продуманной структурой. Делал для себя - пользуюсь в работе.
+`Webpack 5` `SCSS` `PUG` `JS/TS`
 
 #### [👟 Vue Sneakers](https://github.com/HillTrigger/vueSneakers)
 Первый Vue-проект: магазин кроссовок с каталогом, корзиной и избранным. С него начался путь.
